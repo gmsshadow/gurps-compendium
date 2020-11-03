@@ -10,6 +10,7 @@
     					{
       					"name": "gurps-skills",
       					"label": "Skills for GURPS",
+					"system": "GURPS"
       					"path": "packs/gurps-skills.db",
       					"entity": "Item",
       					"module": "gurps-comp"

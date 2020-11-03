@@ -1,22 +1,22 @@
-		{
-			"name": "gurps-comp",
-			"title": "GURPS Compendium",
-			"description": "A module containing a compendium pack",
-			"author": "Barry Dewey-Robertson",
-			"version": "1.0.0",
-			"minimumCoreVersion": "0.6.0",
-			"compatibleCoreVersion": "0.7.5",
-			"packs": [
-    					{
-      					"name": "gurps-skills",
-      					"label": "Skills for GURPS",
-					"system": "GURPS"
-      					"path": "packs/gurps-skills.db",
-      					"entity": "Item",
-      					"module": "gurps-comp"
-						}
-					],
-			"url": "https://github.com/gmsshadow/gurps-compendium",
-  			"manifest": "https://raw.githubusercontent.com/gmsshadow/gurps-compendium/main/module.json",
-      			"download": "https://github.com/gmsshadow/gurps-compendium/archive/main.zip"
-		  }
+{
+	"name": "gurps-comp",
+	"title": "GURPS Compendium",
+	"description": "A module containing a compendium pack",
+	"author": "Barry Dewey-Robertson",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.5",
+	"packs": [
+			{
+      				"name": "gurps-skills",
+      				"label": "Skills for GURPS",
+				"system": "GURPS",
+      				"path": "packs/gurps-skills.db",
+      				"entity": "Item",
+      				"module": "gurps-comp"
+			}
+		],
+		"url": "https://github.com/gmsshadow/gurps-compendium",
+  		"manifest": "https://raw.githubusercontent.com/gmsshadow/gurps-compendium/main/module.json",
+      		"download": "https://github.com/gmsshadow/gurps-compendium/archive/main.zip"
+}

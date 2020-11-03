@@ -15,7 +15,7 @@
       					"module": "gurps-comp"
 						}
 					]
-			"url": "https://github.com/Kull4ck/tormenta20-compendium",
-  			"manifest": "https://raw.github.com/Kull4ck/tormenta20-compendium/master/module.json",
-      			"download": "https://github.com/Kull4ck/tormenta20-compendium/archive/master.zip"
+			"url": "https://github.com/gmsshadow/gurps-compendium",
+  			"manifest": "https://raw.githubusercontent.com/gmsshadow/gurps-compendium/main/module.json",
+      			"download": "https://github.com/gmsshadow/gurps-compendium/archive/main.zip",
 		  }

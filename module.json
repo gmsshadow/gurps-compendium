@@ -1,5 +1,5 @@
 {
-	"name": "gurps-comp",
+	"name": "gurps-compendium",
 	"title": "GURPS Compendium",
 	"description": "A module containing a compendium pack",
 	"author": "Barry Dewey-Robertson",
@@ -8,12 +8,12 @@
 	"compatibleCoreVersion": "0.7.5",
 	"packs": [
 			{
-      				"name": "gurps-skills",
+      				"name": "skills",
       				"label": "Skills for GURPS",
 				"system": "GURPS",
-      				"path": "packs/gurps-skills.db",
+      				"path": "packs/skills.db",
       				"entity": "Item",
-      				"module": "gurps-comp"
+      				"module": "gurps-compendium"
 			}
 		],
 		"url": "https://github.com/gmsshadow/gurps-compendium",

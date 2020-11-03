@@ -14,7 +14,7 @@
       					"entity": "Item",
       					"module": "gurps-comp"
 						}
-					]
+					],
 			"url": "https://github.com/gmsshadow/gurps-compendium",
   			"manifest": "https://raw.githubusercontent.com/gmsshadow/gurps-compendium/main/module.json",
       			"download": "https://github.com/gmsshadow/gurps-compendium/archive/main.zip"

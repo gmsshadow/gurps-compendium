@@ -1,0 +1,19 @@
+
+		{
+			"name": "gurps-comp",
+			"title": "GURPS Compendium",
+			"description": "A module containing a compendium pack",
+			"author": "Barry Dewey-Robertson",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.5",
+			"packs": [
+    					{
+      					"name": "gurps-skills",
+      					"label": "Skills for GURPS",
+      					"path": "packs/gurps-skills.db",
+      					"entity": "Item",
+      					"module": "gurps-comp"
+						}
+					]
+		  }

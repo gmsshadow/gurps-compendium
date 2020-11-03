@@ -1,0 +1,1 @@
+{"name":"Armory ()","permission":{"default":0,"dwlouPj4nlrfwYPa":3},"type":"Rollable","data":{"notes":"This is the ability to tinker with a specific class of combat gear.", "value":0, "formula":"(@iq)-5","category":"skill"}, "flags":{"core":{"sourceId":"Item.DgfR80pIXLDA84cj"}}, "img":"icons/svg/mystery-man.svg","effects":[],"_id":"0wxx9614C1NcUdQQ"}

@@ -14,7 +14,23 @@
       				"path": "packs/skills.db",
       				"entity": "Item",
       				"module": "gurps-compendium"
-			}
+			},
+		    	{
+      				"label": "Advantages",
+      				"entity": "Item",
+      				"name": "advantages",
+      				"path": "packs/advantages.db",
+      				"system": "gurps4e",
+				"module": "gurps-compendium"
+    			},
+    			{
+      				"label": "Disadvantages",
+      				"entity": "Item",
+      				"name": "disadvantages",
+      				"path": "packs/disadvantages.db",
+      				"system": "gurps4e",
+      				"module": "gurps-compendium"
+    			}
 		],
 		"url": "https://github.com/gmsshadow/gurps-compendium",
   		"manifest": "https://raw.githubusercontent.com/gmsshadow/gurps-compendium/main/module.json",
